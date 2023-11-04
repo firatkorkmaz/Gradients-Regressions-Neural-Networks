@@ -1,0 +1,5 @@
+Before running the programs, download and place the Zip files of CIFAR-10 and CIFAR-100 datasets in the root folder (near the Notebook files).
+
+
+Download cifar10.zip : https://drive.google.com/file/d/1YBOqpqSWUN2V8XnNgm0PCD-6_V-ZDPp8/view
+Download cifar100.zip: https://drive.google.com/file/d/1kdxJxvD3K0MNHqZtDHizFPZz-0W7luaq/view
